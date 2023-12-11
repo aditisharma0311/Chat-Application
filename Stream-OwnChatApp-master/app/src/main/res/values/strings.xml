@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OwnChatApp</string>
+
+    <string name="api_key">YOUR_API_KEY</string>
+    <string name="jwt_token">YOUR_JWT_AUTH_TOKEN</string>
+<!-- sriyanksid -->
+</resources>
